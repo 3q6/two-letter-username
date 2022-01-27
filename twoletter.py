@@ -15,7 +15,7 @@ site_url = "https://github.com/join"
 form_number = 1
 input_control_name = "user[login]"
 username_error_msg = "Login is already taken"
-allowed_chars = "abcdefghijklmnopqrstuvwxyz1234567890"
+allowed_chars = "abcdefghijklmnopqrstuvwxyz1234567890-"
 
 
 # if the name is available, return true.
